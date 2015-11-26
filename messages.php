@@ -1,7 +1,6 @@
 <?php include('libs/messages.php'); ?>
 <?php include('includes/top.php'); ?>
 <h1>Liste des messages</h1>
-<h2>Salut</h2>
 <table border="1">
 	<thead>
 		<tr>
